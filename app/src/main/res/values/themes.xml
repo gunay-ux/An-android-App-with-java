@@ -15,4 +15,15 @@
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
     </style>
+    <style name="imageroundiew" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize" >15dp</item>
+        <item name="color">#1Affffff</item>
+    </style>
+
+    <style name="homewhizmain" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize" >400dp</item>
+        <item name="color">#1Affffff</item>
+    </style>
 </resources>
